@@ -1,4 +1,4 @@
----
+ss999.net---
 title: Configuring quasar.config file
 desc: (@quasar/app-vite) Where, how and what you can configure in a Quasar CLI with Vite app.
 ---
